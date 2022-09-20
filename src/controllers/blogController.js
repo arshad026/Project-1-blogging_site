@@ -1,7 +1,7 @@
 const blogModel = require('../models/blogmodel')
 const authorModel = require('../models/authormodel')
 const mongoose = require('mongoose')
-const { query } = require('express')
+// const { query } = require('express')
 
 
 
